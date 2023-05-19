@@ -1,2 +1,2 @@
-# revisiting-lua
-Revisiting Lua Programming Language
+# Revisiting Lua
+> Revisiting Lua Programming Language
